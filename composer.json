@@ -19,6 +19,7 @@
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
+        "drupal/olivero": "^1.0@beta",
         "drupal/paragraphs": "^1.12",
         "drupal/webform": "~6.0",
         "drush/drush": "^10.3"
