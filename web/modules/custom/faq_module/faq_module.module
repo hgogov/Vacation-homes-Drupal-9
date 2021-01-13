@@ -1,0 +1,10 @@
+<?php
+
+function faq_module_theme($existing, $type, $theme, $path) {
+
+    return array(
+      'faq' => array(
+        'variables' => array('questions' => array(), 'answers' => array(), 'title' => '')
+      )
+    );
+}

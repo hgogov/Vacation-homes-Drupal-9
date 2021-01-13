@@ -1,0 +1,7 @@
+faq_module.show_faq:
+  path: '/faq'
+  defaults:
+    _controller: '\Drupal\faq_module\Controller\FAQController::showFAQ'
+    _title: 'FAQ'
+  requirements:
+    _permission: 'access content'

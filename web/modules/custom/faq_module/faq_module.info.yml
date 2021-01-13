@@ -1,0 +1,5 @@
+name: FAQ module
+description: FAQ module for Drupal 9
+package: Custom
+type: module
+core_version_requirement: 9.x

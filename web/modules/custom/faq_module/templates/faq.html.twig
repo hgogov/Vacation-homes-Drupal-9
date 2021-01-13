@@ -1,0 +1,7 @@
+<h4> {{ title }} </h4>
+<ul>
+{% for question in questions %}
+    <li> {{ question.name }} </li>
+         {{ answers[loop.index0].name }} 
+{% endfor %}
+</ul>
